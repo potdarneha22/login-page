@@ -3,7 +3,7 @@ body{
 	margin: 0;
 	background: url(pic1.jpg);
 	background-size: cover;
-	background-position:relative;
+	background-position:center;
 	font-family: sans-serif;
 	
 }
